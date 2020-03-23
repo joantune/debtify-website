@@ -1,0 +1,6 @@
+[submodule "Client-project"]
+	path = Client-project
+	url = git@github.com:RajonDey/Client-project.git
+[submodule "jekyll-multiple-languages-plugin"]
+	path = jekyll-multiple-languages-plugin
+	url = git@github.com:kurtsson/jekyll-multiple-languages-plugin.git
